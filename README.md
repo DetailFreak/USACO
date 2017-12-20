@@ -1,2 +1,2 @@
 # USACO
-my solutions to USACO problems
+My solutions for USACO training gateway problems.
